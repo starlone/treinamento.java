@@ -1,3 +1,5 @@
+package exercicios;
+
 /*
     Construa um algoritmo que leia um número inteiro de horas e mostre ao 
     usuário a quantos minutos e quantos segundos estas horas correspondem

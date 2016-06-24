@@ -1,3 +1,5 @@
+package exercicios;
+
 /*
     Construa um algoritmo que calcule a média aritmética de 3 números quaisquer fornecidos
 */
